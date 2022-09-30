@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomiNG
-- 👀 I’m interested in coding in general!
-- 🌱 I’m currently learning blockchain technology based on Ethereum!
+- 👀 I’m just an usual guy who wants to follow his passion for programming and also want to develop myself as best I can!
+- 🌱 I’m currently learning web development with focus on frontend and also blockchain technology seems very interesting to me!
 - 📫 Send me a message, if you want to reach me!
 
 <!---
